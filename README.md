@@ -3,6 +3,12 @@
 
 Reverse Order Random Swap Backwards - a cache friendly inplace shuffle algorithm.
 
+## Mac & Linux Installation
+```sh
+$ pip install KnuthB
+```
+
+Installation may require Cython, and modern C++ development environment (Clang or GCC).
 
 ## Shuffle Tests
 ### Base Case: Random.shuffle
